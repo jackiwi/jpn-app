@@ -1,0 +1,8 @@
+  <mat-select
+    class="max-w-md h-8 px-2"
+    [(value)]="currentVid"
+    (selectionChange)="selectionChanged()">
+    <mat-option *ngFor="let v of v_data | async" [value] ="v">
+      {{ v.name }}
+    </mat-option>
+  </mat-select>

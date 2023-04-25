@@ -1,0 +1,35 @@
+<div class="flex flex-col justify-between w-96 max-h-80 sm:max-h-full overflow-y-scroll space-y-5">
+  
+  <mat-card *ngIf="currentWord">
+    <mat-card-header>
+      <mat-card-title>
+        {{ currentWord.word }}
+      </mat-card-title>
+      <mat-card-subtitle>
+        {{ currentWord.reading }}
+      </mat-card-subtitle>
+    </mat-card-header>
+    <mat-card-content>
+      {{ currentWord.definition }}
+    </mat-card-content>
+  </mat-card>
+
+  <div class="w-full max-h-96 overflow-y-scroll">
+    <mat-list>
+      <mat-list-item
+        *ngFor="let v of vocab_list"
+        (click)="setCurrentWord(v)"
+        class="cursor-pointer hover:bg-amber-100">
+          <span matListItemTitle>{{ v.word }}</span>
+          <span matListItemLine>{{ v.reading }}</span>  
+      </mat-list-item>
+    </mat-list>
+  </div>
+  
+</div>
+
+<div class="flex justify-center pt-5">
+  <a href="https://docs.google.com/spreadsheets/d/1-0WpiMbJdWBFY6YlaUA3q5VtSBaf31jPfGcPXoWIWqM/edit?usp=sharing" target="_blank">
+    <button>full vocab lists</button>
+  </a>
+</div>

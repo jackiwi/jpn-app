@@ -1,0 +1,619 @@
+[
+    {
+        "youtube_id": "sQok2ip8JkQ",
+        "name": "2023-04-04_mario",
+        "vocab_list": [
+            {
+                "word": "顔",
+                "reading": "かお",
+                "definition": "face",
+                "timestamp": "4 minutes 19 seconds"
+            },
+            {
+                "word": "無料",
+                "reading": "むりょう",
+                "definition": "free (of charge), gratuitous",
+                "timestamp": "10 minutes 3 seconds"
+            },
+            {
+                "word": "いっそ",
+                "definition": "rather, sooner, preferably",
+                "timestamp": "11 minutes 48 seconds"
+            },
+            {
+                "word": "練習",
+                "reading": "れんしゅう",
+                "definition": "practice",
+                "timestamp": "21 minutes 43 seconds"
+            },
+            {
+                "word": "板",
+                "reading": "いた",
+                "definition": "sheet (of metal), plate (of glass), pane, slab",
+                "timestamp": "30 minutes 49 seconds"
+            },
+            {
+                "word": "ひっぱる",
+                "definition": "to pull, to draw, to pull towards oneself",
+                "timestamp": "36 minutes 20 seconds"
+            },
+            {
+                "word": "捕る",
+                "reading": "とる",
+                "definition": "to catch (a wild animal), to capture",
+                "timestamp": "38 minutes 28 seconds"
+            },
+            {
+                "word": "ひびき",
+                "definition": "sound, echo, reverberation",
+                "timestamp": "40 minutes 9 seconds"
+            },
+            {
+                "word": "異世界",
+                "reading": "いせかい",
+                "definition": "another world",
+                "timestamp": "57 minutes 36 seconds"
+            },
+            {
+                "word": "ノリノリ",
+                "definition": "in high spirits",
+                "timestamp": "59 minutes 34 seconds"
+            },
+            {
+                "word": "オラオラ",
+                "definition": "hey!, c'mon!",
+                "timestamp": "1 hour 10 seconds"
+            },
+            {
+                "word": "それだけは ご勘弁を",
+                "reading": "それだけはごかんべんを",
+                "definition": "please excuse that",
+                "timestamp": "1 hour 2 minutes 39 seconds"
+            },
+            {
+                "word": "かせぐ",
+                "definition": "to earn (income), to work hard",
+                "timestamp": "1 hour 6 minutes 41 seconds"
+            },
+            {
+                "word": "びくともしない",
+                "definition": "unyielding, unperturbed",
+                "timestamp": "1 hour 19 minutes 15 seconds"
+            },
+            {
+                "word": "引きずる",
+                "reading": "ひきずる",
+                "definition": "to drag along, to pull",
+                "timestamp": "1 hour 21 minutes"
+            },
+            {
+                "word": "ムズムズ",
+                "definition": "itchy, to be impatient",
+                "timestamp": "1 hour 33 minutes 23 seconds"
+            },
+            {
+                "word": "売れ線",
+                "reading": "うれせん",
+                "definition": "popular line (of goods), products predicted to sell well",
+                "timestamp": "1 hour 33 minutes 54 seconds"
+            },
+            {
+                "word": "俺っち",
+                "reading": "おれっち",
+                "definition": "we, us, I, me",
+                "timestamp": "1 hour 36 minutes 12 seconds"
+            },
+            {
+                "word": "冷え切る",
+                "reading": "ひえきる",
+                "definition": "to become completely chilled",
+                "timestamp": "1 hour 38 minutes 34 seconds"
+            },
+            {
+                "word": "アゲアゲ",
+                "definition": "feeling elated, being excited",
+                "timestamp": "1 hour 39 minutes 9 seconds"
+            },
+            {
+                "word": "引き寄せる",
+                "reading": "ひきよせる",
+                "definition": "to draw or pull something towards oneself",
+                "timestamp": "1 hour 40 minutes 48 seconds"
+            },
+            {
+                "word": "盛り上がる",
+                "reading": "もりあがる",
+                "definition": "to swell, to get excited",
+                "timestamp": "1 hour 50 minutes 28 seconds"
+            },
+            {
+                "word": "わるノリ",
+                "definition": "getting carried away, going too far, overdoing",
+                "timestamp": "1 hour 53 minutes 52 seconds"
+            },
+            {
+                "word": "しょせん",
+                "definition": "after all, in the end, anyway",
+                "timestamp": "1 hour 55 minutes 15 seconds"
+            },
+            {
+                "word": "いかす",
+                "definition": "to be smart, to be cool, to be sharp, to be stylish",
+                "timestamp": "1 hour 56 minutes 49 seconds"
+            },
+            {
+                "word": "コケる",
+                "definition": "to continue heartily doing ...",
+                "timestamp": "1 hour 58 minutes 15 seconds"
+            },
+            {
+                "word": "破片",
+                "reading": "はへん",
+                "definition": "fragment, broken piece",
+                "timestamp": "2 hours 3 minutes 4 seconds"
+            },
+            {
+                "word": "吐き出す",
+                "reading": "はきだす",
+                "definition": "to release, to spit out",
+                "timestamp": "2 hours 3 minutes 56 seconds"
+            },
+            {
+                "word": "どことなく",
+                "definition": "somehow, for some reason, vaguely",
+                "timestamp": "2 hours 5 minutes 29 seconds"
+            },
+            {
+                "word": "まんをじして",
+                "definition": "long-awaited, much-awaited",
+                "timestamp": "2 hours 11 minutes 16 seconds"
+            },
+            {
+                "word": "地面",
+                "reading": "じめん",
+                "definition": "ground, earth's surface",
+                "timestamp": "2 hours 12 minutes 46 seconds"
+            },
+            {
+                "word": "シンミリ",
+                "definition": "quietly, solemnly, sadly",
+                "timestamp": "2 hours 28 minutes 9 seconds"
+            },
+            {
+                "word": "たたく",
+                "definition": "to attack, to strike",
+                "timestamp": "2 hours 30 minutes 56 seconds"
+            },
+            {
+                "word": "ギラギラ",
+                "definition": "glaringly, dazzlingly, blazingly",
+                "timestamp": "2 hours 34 minutes 5 seconds"
+            },
+            {
+                "word": "祭壇",
+                "reading": "さいだん",
+                "definition": "altar",
+                "timestamp": "2 hours 38 minutes 20 seconds"
+            },
+            {
+                "word": "古代人",
+                "reading": "こだいじん",
+                "definition": "the ancients, ancient people",
+                "timestamp": "2 hours 40 minutes 56 seconds"
+            },
+            {
+                "word": "証拠",
+                "reading": "しょうこ",
+                "definition": "evidence, proof",
+                "timestamp": "2 hours 41 minutes 11 seconds"
+            },
+            {
+                "word": "条件",
+                "reading": "じょうけん",
+                "definition": "conditions, requirement",
+                "timestamp": "2 hours 42 minutes 48 seconds"
+            }
+        ]
+    },
+    {
+        "youtube_id": "wPRQccR0zoY",
+        "name": "2023-04-07_mario",
+        "vocab_list": [
+            {
+                "word": "値下げ",
+                "reading": "ねさげ",
+                "definition": "price reduction",
+                "timestamp": "8 minutes 11 seconds"
+            },
+            {
+                "word": "一部",
+                "reading": "いちぶ",
+                "definition": "one part, one portion, one section",
+                "timestamp": "8 minutes 38 seconds"
+            },
+            {
+                "word": "買い得",
+                "reading": "かいどく",
+                "definition": "bargain, good buy",
+                "timestamp": "9 minutes"
+            },
+            {
+                "word": "入荷",
+                "reading": "にゅうか",
+                "definition": "arrival of goods, goods received",
+                "timestamp": "10 minutes 34 seconds"
+            },
+            {
+                "word": "装備",
+                "reading": "そうび",
+                "definition": "equipment",
+                "timestamp": "11 minutes"
+            },
+            {
+                "word": "入国手形",
+                "reading": "にゅうこくてがた",
+                "definition": "passport",
+                "timestamp": "17 minutes 49 seconds"
+            },
+            {
+                "word": "宮殿",
+                "reading": "きゅうでん",
+                "definition": "palace",
+                "timestamp": "24 minutes 36 seconds"
+            },
+            {
+                "word": "改装",
+                "reading": "かいそう",
+                "definition": "remodelling, reorganization",
+                "timestamp": "25 minutes 5 seconds"
+            },
+            {
+                "word": "今はやり",
+                "reading": "いまはやり",
+                "definition": "currently popular, in fashion, trendy",
+                "timestamp": "25 minutes 52 seconds"
+            },
+            {
+                "word": "露店",
+                "reading": "ろてん",
+                "definition": "street stall, stand, booth",
+                "timestamp": "28 minutes 5 seconds"
+            },
+            {
+                "word": "閉店",
+                "reading": "へいてん",
+                "definition": "closing up shop, stopping business",
+                "timestamp": "29 minutes 59 seconds"
+            },
+            {
+                "word": "乗り越える",
+                "reading": "こりこえる",
+                "definition": "to surmout, to overcome",
+                "timestamp": "37 minutes 34 seconds"
+            },
+            {
+                "word": "中央",
+                "reading": "ちゅうおう",
+                "definition": "center, middle",
+                "timestamp": "38 minutes 50 seconds"
+            },
+            {
+                "word": "放す",
+                "reading": "はなす",
+                "definition": "to release, to let go",
+                "timestamp": "42 minutes 5 seconds"
+            },
+            {
+                "word": "無法",
+                "reading": "むほう",
+                "definition": "lawlessness,disorderly,unreasonable",
+                "timestamp": "43 minutes 54 seconds"
+            },
+            {
+                "word": "差し伸べる",
+                "reading": "さしのべる",
+                "definition": "to hold out, to extend (e.g. one's hands)",
+                "timestamp": "48 minutes 34 seconds"
+            },
+            {
+                "word": "難易度",
+                "reading": "なんいど",
+                "definition": "degree of difficulty",
+                "timestamp": "49 minutes 24 seconds"
+            },
+            {
+                "word": "しびれる",
+                "definition": "to be enthralled, to be mesmerized",
+                "timestamp": "58 minutes 1 second"
+            },
+            {
+                "word": "問い",
+                "reading": "とい",
+                "definition": "question, query",
+                "timestamp": "1 hour 1 minute 10 seconds"
+            },
+            {
+                "word": "制限時間",
+                "reading": "せいげんじかん",
+                "definition": "time limit",
+                "timestamp": "1 hour 1 minute 34 seconds"
+            },
+            {
+                "word": "つぎつぎ",
+                "definition": "in succession, one by one",
+                "timestamp": "1 hour 14 minutes 5 seconds"
+            },
+            {
+                "word": "出現",
+                "reading": "しゅつげん",
+                "definition": "appearance, arrival",
+                "timestamp": "1 hour 14 minutes 31 seconds"
+            },
+            {
+                "word": "振りかぶる",
+                "reading": "ふりかぶる",
+                "definition": "to hold aloft (e.g. a sword), to brandish",
+                "timestamp": "1 hour 17 minutes 28 seconds"
+            },
+            {
+                "word": "杭",
+                "reading": "くい",
+                "definition": "stake, post, picket",
+                "timestamp": "1 hour 21 minutes 30 seconds"
+            },
+            {
+                "word": "勢ぞろい",
+                "reading": "せいぞろい",
+                "definition": "array, muster, line-up, full force",
+                "timestamp": "1 hour 28 minutes 27 seconds"
+            },
+            {
+                "word": "真っ二つ",
+                "reading": "まっぷたつ",
+                "definition": "in two equal parts",
+                "timestamp": "1 hour 33 minutes 6 seconds"
+            },
+            {
+                "word": "片目",
+                "reading": "かため",
+                "definition": "one of one's eyes",
+                "timestamp": "1 hour 33 minutes 34 seconds"
+            },
+            {
+                "word": "しょんぼり",
+                "definition": "downheartedly,dejectedly,dispiritedly",
+                "timestamp": "1 hour 36 minutes 29 seconds"
+            },
+            {
+                "word": "玉",
+                "reading": "ぎょく",
+                "definition": "jewel, ball",
+                "timestamp": "1 hour 39 minutes 39 seconds"
+            },
+            {
+                "word": "はりつけ",
+                "definition": "affixing, pasting, sticking",
+                "timestamp": "1 hour 42 minutes 38 seconds"
+            },
+            {
+                "word": "にらめっこ",
+                "definition": "stare-down game, staring contest",
+                "timestamp": "1 hour 45 minutes 35 seconds"
+            },
+            {
+                "word": "ねんね",
+                "definition": "going bye-byes, going beddy-byes",
+                "timestamp": "2 hours 6 minutes 44 seconds"
+            },
+            {
+                "word": "粘着",
+                "reading": "ねんちゃく",
+                "definition": "cohesion, adhesion",
+                "timestamp": "2 hours 7 minutes 43 seconds"
+            },
+            {
+                "word": "べたべた",
+                "definition": "sticky",
+                "timestamp": "2 hours 8 minutes 37 seconds"
+            },
+            {
+                "word": "なれなれしい",
+                "definition": "over-familiar",
+                "timestamp": "2 hours 8 minutes 54 seconds"
+            },
+            {
+                "word": "上等",
+                "reading": "じょうとう",
+                "definition": "just fine!, bring it on!",
+                "timestamp": "2 hours 9 minutes 31 seconds"
+            },
+            {
+                "word": "散らかす",
+                "reading": "ちらかす",
+                "definition": "to scatter around, to make a mess",
+                "timestamp": "2 hours 13 minutes 7 seconds"
+            },
+            {
+                "word": "よくも",
+                "definition": "how dare ..., how could...",
+                "timestamp": "2 hours 27 minutes 6 seconds"
+            },
+            {
+                "word": "喧嘩上等",
+                "reading": "けんかじょうとう",
+                "definition": "first-class fight",
+                "timestamp": "2 hours 27 minutes 58 seconds"
+            },
+            {
+                "word": "地獄",
+                "reading": "じごく",
+                "definition": "hell",
+                "timestamp": "2 hours 28 minutes 42 seconds"
+            },
+            {
+                "word": "ぎざぎざ",
+                "definition": "notched, jagged, serrated",
+                "timestamp": "2 hours 29 minutes 4 seconds"
+            },
+            {
+                "word": "夜露死苦",
+                "reading": "よろしく",
+                "definition": "best regards",
+                "timestamp": "2 hours 31 minutes 15 seconds"
+            },
+            {
+                "word": "つっぱる",
+                "definition": "to act tough,to be persistent",
+                "timestamp": "2 hours 31 minutes 48 seconds"
+            },
+            {
+                "word": "打恥義理",
+                "reading": "ぶっちぎり",
+                "definition": "(establishing a) big lead, breaking away (from the field)",
+                "timestamp": "2 hours 33 minutes 44 seconds"
+            },
+            {
+                "word": "いやがらせ",
+                "definition": "harassment,pestering",
+                "timestamp": "2 hours 41 minutes 30 seconds"
+            },
+            {
+                "word": "想像",
+                "reading": "そうぞう",
+                "definition": "imagination",
+                "timestamp": "2 hours 51 minutes 57 seconds"
+            },
+            {
+                "word": "極楽",
+                "reading": "ごくらく",
+                "definition": "Sukhavati,paradise,heaven on earth",
+                "timestamp": "2 hours 54 minutes 32 seconds"
+            },
+            {
+                "word": "導く",
+                "reading": "みちびく",
+                "definition": "to guide, to lead, to derive, to deduce",
+                "timestamp": "2 hours 54 minutes 58 seconds"
+            },
+            {
+                "word": "天空",
+                "reading": "てんくう",
+                "definition": "sky, air, the heavens",
+                "timestamp": "3 hours 12 minutes 37 seconds"
+            },
+            {
+                "word": "景品",
+                "reading": "けいひん",
+                "definition": "gift, freebie, extra",
+                "timestamp": "3 hours 15 minutes 37 seconds"
+            },
+            {
+                "word": "めぐり",
+                "definition": "tour, pilgrimage",
+                "timestamp": "3 hours 16 minutes 2 seconds"
+            },
+            {
+                "word": "済ませる",
+                "reading": "すませる",
+                "definition": "to finish, to get through with, to make an end of",
+                "timestamp": "3 hours 18 minutes 49 seconds"
+            },
+            {
+                "word": "寛ぎ",
+                "reading": "くつろぎ",
+                "definition": "ease, relaxation, comfort, unwinding",
+                "timestamp": "3 hours 19 minutes 39 seconds"
+            },
+            {
+                "word": "潜水艇",
+                "reading": "せんすいてい",
+                "definition": "submarine",
+                "timestamp": "3 hours 21 minutes 22 seconds"
+            },
+            {
+                "word": "送迎",
+                "reading": "そうげい",
+                "definition": "seeing off and meeting on return",
+                "timestamp": "3 hours 21 minutes 56 seconds"
+            },
+            {
+                "word": "裏話",
+                "reading": "うらばなし",
+                "definition": "inside story, story not generally known",
+                "timestamp": "3 hours 22 minutes 42 seconds"
+            },
+            {
+                "word": "要求",
+                "reading": "ようきゅう",
+                "definition": "demand, firm request, desire",
+                "timestamp": "3 hours 24 minutes 28 seconds"
+            },
+            {
+                "word": "自ら",
+                "reading": "みずから",
+                "definition": "oneself, personally",
+                "timestamp": "3 hours 24 minutes 45 seconds"
+            },
+            {
+                "word": "脅し",
+                "reading": "おどし",
+                "definition": "threat",
+                "timestamp": "3 hours 25 minutes 54 seconds"
+            },
+            {
+                "word": "屈する",
+                "reading": "くっする",
+                "definition": "to yield, to give in, to be daunted",
+                "timestamp": "3 hours 26 minutes 15 seconds"
+            },
+            {
+                "word": "王朝",
+                "reading": "おうちょう",
+                "definition": "dynasty",
+                "timestamp": "3 hours 27 minutes 3 seconds"
+            },
+            {
+                "word": "総出",
+                "reading": "そうで",
+                "definition": "appearing all together",
+                "timestamp": "3 hours 27 minutes 13 seconds"
+            },
+            {
+                "word": "捜索",
+                "reading": "そうさく",
+                "definition": "search, manhunt, legally authorized search of a person",
+                "timestamp": "3 hours 27 minutes 45 seconds"
+            },
+            {
+                "word": "贈る",
+                "reading": "おくる",
+                "definition": "to give (as a gift), to present",
+                "timestamp": "3 hours 32 minutes 17 seconds"
+            },
+            {
+                "word": "新交",
+                "reading": "しんこう",
+                "definition": "intimacy, friendship, friendly relations",
+                "timestamp": "3 hours 33 minutes 15 seconds"
+            },
+            {
+                "word": "癒し",
+                "reading": "いやし",
+                "definition": "healing, soothing, comfort, solace",
+                "timestamp": "3 hours 34 minutes 25 seconds"
+            },
+            {
+                "word": "慰安旅行",
+                "reading": "いあんりょこう",
+                "definition": "pleasure trip, company (office) trip",
+                "timestamp": "3 hours 35 minutes 45 seconds"
+            },
+            {
+                "word": "入湯税",
+                "reading": "にゅうとうぜい",
+                "definition": "hot spring tax, bath tax",
+                "timestamp": "3 hours 39 minutes 1 second"
+            }
+        ]
+    }
+]
